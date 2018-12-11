@@ -1,3 +1,5 @@
-# git1-master1
-test1
-这里是马斯特1
+# git1-master
+test
+手动编辑解决合并冲突，我去
+
+
